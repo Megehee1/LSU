@@ -1,4 +1,3 @@
-
 LSU FC2 Universe
 SEC,East,West,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,
