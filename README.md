@@ -1,6 +1,5 @@
 
 LSU FC2 Universe
-# conferences
 SEC,East,West,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,
 Big Ten,East,West,,,,,,,
